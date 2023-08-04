@@ -11,6 +11,9 @@ Commissioned to do only Landing page as a volunteer. This repo contains only the
 ### QE High School APK
 One of the crown jewels of this repository is the QE High School APK. This remarkable achievement was meticulously developed to enhance the experience of the school's Open House event. Although the APK itself isn't directly available for download from this repository, it remains accessible through various APK downloading websites. You can also explore it here:
 
+(Unfortunately the apk is not downloadable now, considering the fact that apkCombo only shows that caches when it was uploaded in 2015
+i will update if i ever find source file)
+
 [QE High School APK](https://apkcombo.com/qe-high-school/com.app.appd9ec62257713/)
 
 ![QEAPK](https://github.com/SJLEE411/OLD-REPO-QE-HighSchool--PrgrammingClub/assets/130009892/1890088e-b02f-4440-9177-97d2cdc7202f)
